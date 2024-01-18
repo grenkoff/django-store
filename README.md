@@ -1,2 +1,2 @@
-# django-store
-Django 4 Web Store Application
+# Django Store
+Awesome Web Store Using Django 4
