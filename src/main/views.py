@@ -1,14 +1,17 @@
-from django.http import HttpResponse
 from django.shortcuts import render
 
+from goods.models import Categories
 
 # это не функции, это представления или контролеры
 # представления нужно закрепить за каким-либо url-адресом в файле urls.py
 def index(request):
+
+    categories = Categories.objects.all()
     # имитация базы данных
     context = {
         'title': 'Home - Главная',
-        'content': 'Магазин мебели HOME'
+        'content': 'Магазин мебели HOME',
+        'categories': categories
     }
 
     # return HttpResponse('Home page')

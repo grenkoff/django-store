@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "sdfg",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "dfg.",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "hgfd",
+            "slug": "cvetok-stilizirovannyj",
+            "description": "hgfdf fg",
+            "image": "",
+            "price": "100.00",
+            "discount": "0.00",
+            "quantity": 17,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "ert",
+            "slug": "rastenie",
+            "description": "ertrtwert",
+            "image": "",
+            "price": "100.00",
+            "discount": "0.00",
+            "quantity": 17,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "wedfg",
+            "slug": "stul-ofisnyj",
+            "description": "wedf hgf fg",
+            "image": "",
+            "price": "120.00",
+            "discount": "0.00",
+            "quantity": 35,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "erty",
+            "slug": "divan-obyknovennyj",
+            "description": "jtre hgf gf",
+            "image": "",
+            "price": "250.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "qwerty",
+            "slug": "prikrovatnyj-stolik",
+            "description": "hgfd hre",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "erf nhygh vfdf",
+            "slug": "uglovoj-divan-dlya-gostinnoj",
+            "description": "rthb nhgr fd",
+            "image": "",
+            "price": "110.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "rth hgf",
+            "slug": "kuhonnyj-stol-s-vstrojkoj",
+            "description": "trew hgr gre ge",
+            "image": "",
+            "price": "160.00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "qwer gfds",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "dbdb ebgebfbef",
+            "image": "",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 11,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "negg  ggebgeb",
+            "slug": "dvuspalnaya-krovat",
+            "description": "ebe ebeb ea",
+            "image": "",
+            "price": "300.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "gswgg",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "nfevbebfvhjeefk",
+            "image": "",
+            "price": "200.00",
+            "discount": "0.00",
+            "quantity": 7,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "wretrht 2",
+            "slug": "chajnyj-stolik-i-tri-stula-2",
+            "description": "brbgrbgrrbg",
+            "image": "",
+            "price": "250.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    }
+]
